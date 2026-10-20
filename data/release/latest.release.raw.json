@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 583,
       "digest": "sha256:933fc8ebb2277f8ae258f84865f022d4522cbe49c955e0ccec5944c49794b210",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T16:58:40Z",
       "updated_at": "2026-09-03T16:58:40Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/sha256.sum"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21520,
       "digest": "sha256:c3f8d15dcf6b6878b47d1c590b83e7b163b73d398b47ff52694d77c24a718126",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T16:58:41Z",
       "updated_at": "2026-09-03T16:58:41Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled-installer.ps1"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1390992,
       "digest": "sha256:befc38eea757be9f7e50f1cbb169ef13787001a660c80bf297aa8a034987f5be",
-      "download_count": 159,
+      "download_count": 167,
       "created_at": "2026-09-03T16:58:41Z",
       "updated_at": "2026-09-03T16:58:42Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1118520,
       "digest": "sha256:d5d726898de0ce3fde2d4f1bf9b82c27afc60642e7afcc044685acceee5dded2",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-03T16:58:41Z",
       "updated_at": "2026-09-03T16:58:42Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled-x86_64-unknown-linux-gnu.tar.xz"
