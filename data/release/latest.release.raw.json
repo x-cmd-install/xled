@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 159241,
       "digest": "sha256:9b2626099c640d45c525276e83467cfa7403b524254278af219db6f0edb9e9c1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T16:58:40Z",
       "updated_at": "2026-09-03T16:58:40Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/source.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 928452,
       "digest": "sha256:5520340a6acc9b5a0702a5e7f9792dee9fbdeebfb3b3904ec5c5c21f485e0272",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-03T16:58:40Z",
       "updated_at": "2026-09-03T16:58:40Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled-aarch64-apple-darwin.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1390992,
       "digest": "sha256:befc38eea757be9f7e50f1cbb169ef13787001a660c80bf297aa8a034987f5be",
-      "download_count": 168,
+      "download_count": 174,
       "created_at": "2026-09-03T16:58:41Z",
       "updated_at": "2026-09-03T16:58:42Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1118520,
       "digest": "sha256:d5d726898de0ce3fde2d4f1bf9b82c27afc60642e7afcc044685acceee5dded2",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-09-03T16:58:41Z",
       "updated_at": "2026-09-03T16:58:42Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled-x86_64-unknown-linux-gnu.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1006476,
       "digest": "sha256:842ee7b34e0da9c30450d4de897047e83b6e63b212ae0124e7ec34a6b2c0972c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-03T17:01:22Z",
       "updated_at": "2026-09-03T17:01:22Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled_0.12.2-1_amd64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 866516,
       "digest": "sha256:dd1fee279d4955243b54f26bac5244f7fc022f400c03bb4808e33dfc12424bca",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-03T17:01:10Z",
       "updated_at": "2026-09-03T17:01:10Z",
       "browser_download_url": "https://github.com/excelano/xled/releases/download/v0.12.2/xled_0.12.2-1_arm64.deb"
