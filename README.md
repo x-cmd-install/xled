@@ -18,7 +18,7 @@ Total: **6,050** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,996 | 446 | 683 | 33 |
+| Rust | 5,996 | 461 | 683 | 33 |
 | Toml | 54 | 11 | 4 | 2 |
 | Markdown | 0 | 1,508 | 556 | 14 |
 
@@ -31,7 +31,7 @@ Total: **6,050** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 - **Assets in release**: 17
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **6,050** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 0 · **Commits**: 107
+- **Releases**: 17 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 0 · **Commits**: 108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 0 | 0 | 2 | 0 | 13 |
-| last60d | 2026-08-26 | 3 | 1 | 0 | 6 | 0 | 36 |
-| 90d | 2026-07-27 | 12 | 2 | 0 | 11 | 0 | 64 |
-| last180d | 2026-04-28 | 17 | 3 | 0 | 20 | 0 | 106 |
-| 360d | 2025-10-30 | 17 | 3 | 0 | 20 | 0 | 106 |
-| last720d | 2024-11-04 | 17 | 3 | 0 | 20 | 0 | 107 |
+| 30d | 2026-09-26 | 2 | 0 | 0 | 2 | 0 | 14 |
+| last60d | 2026-08-27 | 3 | 1 | 0 | 6 | 0 | 37 |
+| 90d | 2026-07-28 | 12 | 2 | 0 | 11 | 0 | 65 |
+| last180d | 2026-04-29 | 17 | 3 | 0 | 20 | 0 | 107 |
+| 360d | 2025-10-31 | 17 | 3 | 0 | 20 | 0 | 107 |
+| last720d | 2024-11-05 | 17 | 3 | 0 | 20 | 0 | 108 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for xled lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:40:18Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:41:06Z._
