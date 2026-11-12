@@ -14,13 +14,13 @@ x install xled
 
 ## Code insight
 
-Total: **6,050** lines of code across **49** files in the top 5 languages.
+Total: **6,035** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,996 | 461 | 683 | 33 |
-| Toml | 54 | 11 | 4 | 2 |
-| Markdown | 0 | 1,508 | 556 | 14 |
+| Rust | 5,996 | 463 | 684 | 33 |
+| Toml | 39 | 3 | 2 | 1 |
+| Markdown | 0 | 903 | 353 | 10 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **6,050** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1` (2026-10-23)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-11
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 16 · **Forks**: 1 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 16 · **Forks**: 1 · **Open issues**: 21 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 0 · **Commits**: 108
+- **Releases**: 17 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 113
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 0 | 0 | 2 | 0 | 13 |
-| last60d | 2026-09-11 | 2 | 1 | 0 | 3 | 0 | 22 |
-| 90d | 2026-08-12 | 8 | 1 | 0 | 8 | 0 | 41 |
-| last180d | 2026-05-14 | 17 | 3 | 0 | 20 | 0 | 107 |
-| 360d | 2025-11-15 | 17 | 3 | 0 | 20 | 0 | 107 |
-| last720d | 2024-11-20 | 17 | 3 | 0 | 20 | 0 | 108 |
+| 30d | 2026-10-13 | 2 | 0 | 0 | 2 | 1 | 18 |
+| last60d | 2026-09-13 | 2 | 1 | 0 | 3 | 1 | 27 |
+| 90d | 2026-08-14 | 6 | 1 | 0 | 6 | 1 | 46 |
+| last180d | 2026-05-16 | 17 | 3 | 0 | 20 | 1 | 112 |
+| 360d | 2025-11-17 | 17 | 3 | 0 | 20 | 1 | 112 |
+| last720d | 2024-11-22 | 17 | 3 | 0 | 20 | 1 | 113 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for xled lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:49:23Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:53:05Z._
