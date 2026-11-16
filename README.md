@@ -46,12 +46,12 @@ Total: **6,035** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 0 | 0 | 2 | 1 | 18 |
-| last60d | 2026-09-16 | 2 | 1 | 0 | 3 | 1 | 27 |
-| 90d | 2026-08-17 | 4 | 1 | 0 | 6 | 1 | 46 |
-| last180d | 2026-05-19 | 17 | 3 | 0 | 20 | 1 | 112 |
-| 360d | 2025-11-20 | 17 | 3 | 0 | 20 | 1 | 112 |
-| last720d | 2024-11-25 | 17 | 3 | 0 | 20 | 1 | 113 |
+| 30d | 2026-10-17 | 2 | 0 | 0 | 2 | 1 | 16 |
+| last60d | 2026-09-17 | 2 | 0 | 0 | 3 | 1 | 24 |
+| 90d | 2026-08-18 | 3 | 1 | 0 | 6 | 1 | 43 |
+| last180d | 2026-05-20 | 17 | 3 | 0 | 20 | 1 | 112 |
+| 360d | 2025-11-21 | 17 | 3 | 0 | 20 | 1 | 112 |
+| last720d | 2024-11-26 | 17 | 3 | 0 | 20 | 1 | 113 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for xled lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:53:47Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:23:08Z._
