@@ -36,7 +36,7 @@ Total: **6,050** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16 · **Forks**: 1 · **Open issues**: 21 · **Contributors**: 2
+- **Stars**: 17 · **Forks**: 1 · **Open issues**: 21 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **6,050** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 1 | 0 | 1 | 0 | 8 |
-| last60d | 2026-09-25 | 3 | 1 | 0 | 3 | 0 | 23 |
-| 90d | 2026-08-26 | 4 | 2 | 0 | 7 | 0 | 46 |
-| last180d | 2026-05-28 | 18 | 4 | 0 | 21 | 0 | 115 |
-| 360d | 2025-11-29 | 18 | 4 | 0 | 21 | 0 | 115 |
-| last720d | 2024-12-04 | 18 | 4 | 0 | 21 | 0 | 116 |
+| 30d | 2026-10-26 | 1 | 1 | 0 | 1 | 0 | 8 |
+| last60d | 2026-09-26 | 3 | 1 | 0 | 3 | 0 | 23 |
+| 90d | 2026-08-27 | 4 | 2 | 0 | 7 | 0 | 46 |
+| last180d | 2026-05-29 | 18 | 4 | 0 | 21 | 0 | 115 |
+| 360d | 2025-11-30 | 18 | 4 | 0 | 21 | 0 | 115 |
+| last720d | 2024-12-05 | 18 | 4 | 0 | 21 | 0 | 116 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for xled lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:49Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:34:47Z._
